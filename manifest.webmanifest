@@ -1,0 +1,15 @@
+{
+  "id": "./piloto.html",
+  "name": "Terra Nova Atacadista",
+  "short_name": "Terra Nova",
+  "description": "Gestão de estoque, pedidos e financeiro da Terra Nova Atacadista.",
+  "start_url": "./piloto.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f5",
+  "theme_color": "#143c37",
+  "icons": [
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
